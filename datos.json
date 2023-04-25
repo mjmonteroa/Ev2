@@ -1,92 +1,84 @@
 [
     {
-        "name": "The Fast and the Furious",
+        "name": "EL DUQUE Y YO",
+        "year": 2000,
+        "director": "Julia Quinn",
+        "pic_sm": "B1.jpg",
+        "pic_lg": "B1_grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=jOt4qmXbP88",
+        "description": "La primera parte de la saga de 'Los Bridgerton' se titula 'El duque y yo' y ha recibido desde Titania Editorial una nueva portada en la edición que se ha publicado tras la serie, en la que se ve a Phoebe Dynevor y Regé-Jean Page en sus papeles de Daphne Bridgerton y Simon Basset. Este primer libro presenta a ambos personajes: Daphne, recién presentada en la alta sociedad inglesa y presionada por su madre para que encuentre un marido, aunque los que a ella le gustan no estén interesados; y Simon, que acaba de ser nombrado Duque de Hastings y al que le presionan todas las damas para que se case con sus hijas. Así, ambos pactarán fingir la farsa de que están comprometidos para que les dejen en paz, pero la amistad se empezará a convertir en algo más fuerte."
+    },
+    {
+        "name": "EL VISCONDE QUE ME AMÓ",
+        "year": 2000,
+        "director": "Julia Quinn",
+        "pic_sm": "B2.jpg",
+        "pic_lg": "B2_grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=viKyq9T2jUE",
+        "description": "En la serie, hemos visto a Anthony Bridgerton, el Lord heredero del título, muy enamorado de la cantante de ópera Sienna Rosso en lo que parece ser un amor imposible entre distintas clases sociales. El segundo volumen de la saga, que transcurre en 1814, se centra en el hermano mayor, de quien Lady Whistledown ha sentenciado que es el objetivo masculino de la temporada. Anthony está dispuesto a buscar esposa, formar una familia y dejar de ser el soltero de oro y sabe que no le faltan pretendientes. Entre ellas, la preciosa Edwina Sheffield parece la elección natural pero a Lord Bridgerton le llama la atención que la hermana de ésta, Katrina -Simoney Ashley en la serie-, es la única mujer que jamás se ha fijado en él, y a la que tiene que convencer para casarse con Edwina. ¿Qué sucederá?"
+    },
+    {
+        "name": "TE DOY MI CORAZÓN",
         "year": 2001,
-        "director": "Rob Cohen",
-        "pic_sm": "FF1.jpg",
-        "pic_lg": "FF1-Grande.jpg",
-        "trailer": "https://www.youtube.com/watch?v=ZsJz2TJAPjw",
-        "description": "Los Angeles street racer Dominic Toretto falls under the suspicion of the LAPD as a string of high-speed electronics truck robberies rocks the area. Brian O'Connor, an officer of the LAPD, joins the ranks of Toretto's highly skilled racing crew undercover to convict Toretto. However, O'Connor finds himself both enamored with this new world and in love with Toretto's sister, Mia. As a rival racing crew gains strength, O'Connor must decide where his loyalty really lies."
+        "director": "Julia Quinn",
+        "pic_sm": "B3.jpg",
+        "pic_lg": "B3_grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=Drsv7o4P-WE",
+        "description": "Esta preciosa historia al estilo Cenicienta está protagonizada por Benedict Bridgerton y Sophie Beckett, la hija no reconocida del Conde de Penwood, cuya madrastra y hermanastras hicieron pasar por una vida de penurias. Nunca la consideraron igual que ella y mucho menos iban a permitir que compitiera con ellas por conseguir el favor de uno de los Bridgerton. Pero una noche, sin que ellas lo sepan, se viste de gala y acude de Dama Plateada a un baile de disfraces, donde llama la atención de Benedict. Sin embargo, cuando acaba la fiesta tiene que volver a la cruda realidad. Al cabo de unos años, entrará a servir a la casa de los Bridgerton y el segundo hijo varón de la familia no se dará cuenta de que la mujer de su vida es ahora una simple criada. Al menos, al principio."
     },
     {
-        "name": "2 Fast 2 Furious",
+        "name": "SEDUCIENDO A MR. BRIDGERTON",
+        "year": 2002,
+        "director": "Nombre Apellido",
+        "pic_sm": "B4.jpg",
+        "pic_lg": "B4_grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=x19FmhIZSlA",
+        "description": "Una de las mejores y más queridas parejas de la serie de Netflix, Colin Bridgerton y Penelope Featherington, son los protagonistas del cuarto libro de la saga. En 'Seduciendo a Mr. Bridgerton', Penelope ya tiene 28 años y no ha tenido ninguna propuesta interesante y formal, por lo que comienza a asimilar que se quedará soltera cuidando para siempre a su madre. No ha faltado a ninguna fiesta pero siempre se ha quedado arrinconada, en la esquina, sin llamar la atención de nadie y solo sacándola a bailar por compromiso. En todo este tiempo, ha mantenido su amistad con Colin, el hermano de su mejor amiga, Eloise Bridgerton, que además siempre ha sido su amor platónico. Se ríen, disfrutan juntos, lo pasan bien con la inteligencia del otro... Quizás es el momento de que la relación entre ellos cambie de rumbo, aunque una historia que ha tardado tanto tiempo en tener frutos amorosos se verá salpicada de dificultades."
+    },
+    {
+        "name": "A SIR PHILLIP CON AMOR",
         "year": 2003,
-        "director": "John Singleton",
-        "pic_sm": "FF2.jpg",
-        "pic_lg": "FF2-Grande.jpg",
-        "trailer": "https://www.youtube.com/watch?v=ZZGkV_xWGw4",
-        "description": "Brian O'Conner has left LA due to his illegal actions and now soars the streets of Miami making money here and there by street racing. Watched by Customs Agent Monica Fuentes, Brian is caught by the police and is given a deal by Agent Markham and Bilkins to go undercover and try to bring down drug lord Carter Verone in exchange for his criminal record to be erased. Brian agrees but only if he is given permission to choose his partner. Brian heads home to Barstow, California where he recruits an old friend Roman Pearce to help him. Pearce agrees but only for the same deal Brian was offered. With the help of Monica, Brian and Rome work together to take down Verone."
+        "director": "Julia Quinn",
+        "pic_sm": "B5.jpg",
+        "pic_lg": "B5_grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=ewuOiuH8jDo",
+        "description": "A la inteligente e independiente Eloise Bridgerton, el matrimonio no le había llamado nada la atención hasta que se casa su mejor amiga Penélope y, entonces, comienza a sentirse terriblemente sola. Sin embargo, desde hace un tiempo mantiene correspondencia con un hombre llamado Phillip Crane a quien no ha visto nunca –pero que puede sonar quien haya visto la serie de 'Los Bridgerton' ya que es el hermano de George Crane, el enamorado de Marina Thompson, con quien finalmente acaba casándose en un primer matrimonio. En un arrebato de locura, Eloise abandona Londres para conocerle porque le ha dicho que quiere casarse con ella, pero al verle, todo resulta decepcionante. Es un grosero, es muy serio, tiene dos hijos insoportables y parece que la petición de matrimonio era puro interés. El caballero, que pensaba que Eloise iba a ser una fea y desesperada solterona, cambia de opinión nada más verla, y la hermana pequeña de Lady Daphne Bridgerton está a punto de hacerlo."
     },
     {
-        "name": "The Fast and the Furious: Tokyo Drift",
+        "name": "EL CORAZÓN DE UNA BRIDGERTON",
+        "year": 2004,
+        "director": "Julia Quinn",
+        "pic_sm": "B6.jpg",
+        "pic_lg": "B6_grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=yokdpDJuVHQ",
+        "description": "Francesca Bridgerton, la sexta hermana Bridgerton, tuvo inexplicablemente muy poco protagonismo en la serie de Netflix pero tiene, como el resto de la familia, un libro para ella sola, 'El corazón de una Bridgerton'. Francesca se casó muy joven con John, el conde de Kilmartin, del que enviudó muy pronto. Buscando consuelo, se refugia en Michael Stirling, primo de John y uno de sus mejores amigos. Pero Michael lleva enamorado de ella desde el día que la conoció, en la reunión familiar donde se hizo pública la boda entre la pequeña Bridgerton y su primo, así que cuando nota el acercamiento de Francesca, escapa de Londres aterrado intentando huir de sus sentimientos. Cuando regresa, la viuda lleva ya cuatro años de luto y todo hace pensar que las aguas se han calmado. Al menos, aparentemente."
+    },
+    {
+        "name": "POR UN BESO",
+        "year": 2005,
+        "director": "Julia Quinn",
+        "pic_sm": "B7.jpg",
+        "pic_lg": "B7_grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=1psiJUMkxbc",
+        "description": "En la serie más vista de Netflix pudimos admirar alguna ráfaga de la personalidad de Hyacinth, la más pequeña de las chicas Bridgerton. En este libro ya se ha convertido en una hermosa joven a la que no le falta inteligencia, descaro ni carácter. Así que se aburre en algo tan simplón como los bailes de sociedad de Londres, donde no parece encontrar ningún pretendiente a su altura.Pero en la velada anual de Smyhthe-Smith su camino se cruzará con Gareth St. Clair, el seductor y rebelde nieto de Lady Dunbury al que su padre le quiere quitar toda la herencia. Todas sus posesiones son una gran personalidad díscola y un diario escrito en italiano del que no entiende ni una sola palabra, cualidades que serán suficientes para llamar la atención de Hyacinth."
+    },
+    {
+        "name": "BUSCANDO ESPOSA",
         "year": 2006,
-        "director": "Justin Lin",
-        "pic_sm": "FF3.jpg",
-        "pic_lg": "FF3-Grande.jpg",
-        "trailer": "https://www.youtube.com/watch?v=p8HQ2JLlc4E",
-        "description": "Sean Boswell, has always been an outsider, a loner at school, his only connection to the indifferent world around him is through illegal street racing, which has made him particularly unpopular with the local authorities. To avoid jail time, Sean is sent out of the country to live with his Farther in the military, in a cramped apartment in a low-rent section of Tokyo. In the land that gave birth to the majority of modified racers on the road, the simple street race has been replaced by the ultimate pedal-to-the-metal, gravity-defying automotive challenge, drift racing, a deadly combination of brutal speed on heart stopping courses of hairpin turns and switchbacks. For his first unsuccessful foray in drift racing, Sean unknowingly takes on D.K., the 'Drift King' with ties to the Yakuza, the Japanese crime machine. The only way he can pay off the debt of his loss is to venture into the deadly realm of the Tokyo underworld, where the stakes are life and death."
+        "director": "Julia Quinn",
+        "pic_sm": "B8.jpg",
+        "pic_lg": "B8_grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=V9brql9s2ZY",
+        "description": "Gregory, el más pequeño de los Bridgerton, es el protagonista del último tomo y cuando empieza su historia, todos los hermanos ya se han casado excepto él. Sigue sin cesar la búsqueda de su media naranja cuando en un baile se fija en la bella Hermione Watson, pero su mejor amiga, Lucy Abernathy, le da un gran disgusto al decirle que Hermione está ya comprometida con otro hombre. Gregory buscará la ayuda de Lucy para hacer cambiar de idea a su amor platónico y, mientras echa mano de todas sus artimañas para conquistar a Hermione, se va dando cuenta de que es su 'aliada' la que está comenzando a hacerse un gran hueco en su corazón. Pero ahora que sabe que ama a Lucy, su amiga acaba de ser prometida en un matrimonio de conveniencia y se acaba el tiempo para cambiar la historia."
     },
     {
-        "name": "Fast & Furious",
-        "year": 2009,
-        "director": "Justin Lin",
-        "pic_sm": "FF4.jpg",
-        "pic_lg": "FF4-Grande.jpg",
-        "trailer": "https://www.youtube.com/watch?v=k98tBkRsGl4",
-        "description": "Heading back to the streets where it all began, two men rejoin two women to blast muscle, tuner and exotic cars across Los Angeles and floor through the Mexican desert. When a crime brings them back to L.A., fugitive ex-con Dom Toretto reignites his feud with agent Brian O'Connor. But as they are forced to confront a shared enemy, Dom and Brian must give in to an uncertain new trust if they hope to outmaneuver him. And from convoy heists to precision tunnel crawls across international lines, two men will find the best way to get revenge: push the limits of what's possible behind the wheel."
-    },
-    {
-        "name": "Fast Five",
-        "year": 2011,
-        "director": "Justin Lin",
-        "pic_sm": "FF5.jpg",
-        "pic_lg": "FF5-Grande.jpg",
-        "trailer": "https://www.youtube.com/watch?v=OqjeOYeG5_A",
-        "description": "Former cop Brian O'Conner partners with ex-con Dom Toretto on the opposite side of the law. Since Brian and Mia Toretto broke Dom out of custody, they've blown across many borders to elude authorities. Now backed into a corner in Rio de Janeiro, they must pull one last job in order to gain their freedom. As they assemble their elite team of top racers, the unlikely allies know their only shot of getting out for good means confronting the corrupt businessman who wants them dead. But he's not the only one on their tail. Hard-nosed federal agent Luke Hobbs never misses his target. When he is assigned to track down Dom and Brian, he and his strike team launch an all-out assault to capture them. But as his men tear through Brazil, Hobbs learns he can't separate the good guys from the bad. Now, he must rely on his instincts to corner his prey... before someone else runs them down first."
-    },
-    {
-        "name": "Fast and Furious 6",
+        "name": "BRIDGERTON: FELICES PARA SIEMPRE",
         "year": 2013,
-        "director": "Justin Lin",
-        "pic_sm": "FF6.jpg",
-        "pic_lg": "FF6-Grande.jpg",
-        "trailer": "https://www.youtube.com/watch?v=C_puVuHoR6o",
-        "description": "Agent Hobbs summons Dom Toretto and his crew to London in order to take on a team of mercenary drivers who have caused havoc across a dozen countries in this pedal-to-the-metal installment of the rubber-burning action franchise. Having just earned a tidy $100 million for taking down a ruthless criminal kingpin, Dom and Brian have decided to lie low for a while. Fugitives from the law, they're constantly looking over their shoulders, no matter where they travel. Meanwhile, the malevolent leader of an elusive criminal outfit has incurred the wrath of Agent Hobbs, who has decided that the only way to shut them down is to beat them on their own turf. Realizing that Dom knows the only drivers in the world with the skills to get the job done, Agent Hobbs offers them all full pardons if they will come to London, and get back behind the wheel. The closer the renegade drivers get to the organization, however, the more apparent it becomes that Dom's former lover Letty is not only still alive, but a key figure among their ranks. Now, with their freedom finally within reach, Dom and the team reassemble for their most dangerous mission to date."
+        "director": "Julia Quinn",
+        "pic_sm": "B9.jpg",
+        "pic_lg": "B9_grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=XtPfYOjkKNM",
+        "description": "Esta obra, la última de la saga de Los Bridgerton por el momento, recopila una serie de epílogos de cada uno de los libros anteriores. Son flecos que quedaron que contar en los otros volúmenes y dudas que acabaron llegando a la escritora, como si Simon algún día leyó las cartas de su padre o si Francesca y Michael consiguen ser padres. Son ocho historias adicionales, una por cada uno de los hermanos. Además, se presenta una narración completamente nueva sobre un personaje que siempre está ahí pero que hasta este momento no ha tenido historia propia: Violet Bridgerton, la matriarca de la saga."
     },
-    {
-        "name": "Furious 7",
-        "year": 2015,
-        "director": "James Wan",
-        "pic_sm": "FF7.jpg",
-        "pic_lg": "FF7-Grande.jpg",
-        "trailer": "https://www.youtube.com/watch?v=Skpu5HaVkOc",
-        "description": "Dominic and his crew thought they'd left the criminal mercenary life behind. They'd defeated international terrorist Owen Shaw and went their separate ways. But now, Shaw's brother, Deckard Shaw, is out killing the crew one by one for revenge. Worse, a Somalian terrorist called Jakarde and a shady government official called 'Mr. Nobody' are both competing to steal a computer terrorism program called 'God's Eye', that can turn any technological device into a weapon. Torretto must reconvene with his team to stop Shaw and retrieve the God's Eye program while caught in a power struggle between the terrorist and the United States government."
-    },
-    {
-        "name": "The Fate of the Furious",
-        "year": 2017,
-        "director": "F. Gary Gray",
-        "pic_sm": "FF8.jpg",
-        "pic_lg": "FF8-Grande.jpg",
-        "trailer": "https://www.youtube.com/watch?v=uisBaTkQAEs",
-        "description": "Now that Dominic Toretto and Letty Ortiz are on their honeymoon, and Brian and Mia have retired from the game, and the rest of the crew has been exonerated, the globetrotting team has found a semblance of a normal life. But when a mysterious woman seduces Dom into the world of crime he can't seem to escape, and a betrayal of those closest to him, they will face trials that will test them as never before. From the shores of Cuba and the streets of New York City to the icy plains off the arctic Barents Sea, the elite force will crisscross the globe to stop an anarchist from unleashing chaos on the world's stage, and to bring home the man who made them a family."
-    },
-     {
-        "name": "F9",
-        "year": 2021,
-        "director": "Justin Lin",
-        "pic_sm": "FF9.jpg",
-        "pic_lg": "FF9-Grande.jpg",
-        "trailer": "https://www.youtube.com/watch?v=FUK2kdPsBws",
-        "description": "Dominic Toretto leads a quiet and low-key life with Letty and their son, little Brian, but they know that danger is always lurking around every corner. This time, the threat will force Dom to face the sins of the past if he wants to save those he loves most. His usual team joins him to stop a world-shattering plan, masterminded by the most skilled assassin and elite driver to ever cross his path, and that man is none other than Jakob, Dom's forgotten brother."
-    },
-     {
-        "name": "Fast X (Coming soon)",
-        "year": 2023,
-        "director": "Justin Lin",
-        "pic_sm": "FF10.jpg",
-        "pic_lg": "FF10-Grande.jpg",
-        "trailer": "https://www.youtube.com/watch?v=32RAq6JzY-w",
-        "description": "In theaters May 18, 2023"
     }
 ]
