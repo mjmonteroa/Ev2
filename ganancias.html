@@ -6,11 +6,14 @@
         <meta name="description" content="Diseño y nuevos medios" />
         <title>DNO037</title>
         <link rel="stylesheet" href="style.css" />
+		<style>
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+</style>
     </head>
     <body>
         <div class="container">
             <nav>
-                <p><a href="index.html">Portada</a> <a href="peliculas.html">Películas</a> <a href="ganancias.html" class="active">Ganancias</a></p>
+                <p><a href="index.html">Portada</a> <a href="libros.html">Libros</a> <a href="ganancias.html" class="active">Ganancias</a></p>
             </nav>
             <main>
                 <canvas id="grafico" height="40" width="100">
@@ -27,11 +30,11 @@ var ctx = document.getElementById('grafico').getContext('2d');
 var myChart = new Chart(ctx, {
     type: 'bar',
     data: {
-        labels: ['B1', 'B2', 'B3', 'B4', 'B5', 'B6', 'B7', 'B8', 'B9' , 'B10' ],
+        labels: ['B1', 'B2', 'B3', 'B4', 'B5', 'B6', 'B7', 'B8' ],
         datasets: [{
-            label: 'Ventas',
-            data: [12, 12, 10, 10, 8, 5, 4, 4, 5],
-            backgroundColor: 'rgba(20, 100, 180, 0.5)',
+            label: 'Número de Ventas Aprox',
+            data: [12000, 12000, 10000, 10000, 8000, 5000, 4000, 4000, 5000],
+            backgroundColor: 'rgba(20, 120, 34, 0.3)',
             borderWidth: 0
         }]
     },
